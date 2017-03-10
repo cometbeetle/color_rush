@@ -1,4 +1,4 @@
-//Ethan Mentzer/cometbeetle
+//Ethan Mentzer
 //Assignment 8
 //Color Rush
 
